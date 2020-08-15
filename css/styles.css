@@ -1,14 +1,14 @@
 body {
-    color: darkorange;
-    background-color: darkolivegreen;
+    color:darkcyan;
+    background-color:lightcoral;
     text-align: center;
     font-family: arial;
 } 
 
 #notes{
-    color: red;
+    color:darkgreen;
 }
 
 #news{
-    color: gray;
+    color:greenyellow;
 }
