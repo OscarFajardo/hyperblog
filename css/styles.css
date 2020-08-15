@@ -1,0 +1,14 @@
+body {
+    color: darkorange;
+    background-color: darkolivegreen;
+    text-align: center;
+    font-family: arial;
+} 
+
+#notes{
+    color: red;
+}
+
+#news{
+    color: gray;
+}
