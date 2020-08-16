@@ -1,6 +1,6 @@
 body {
     color:darkcyan;
-    background-color:lightcoral;
+    background-color:black;
     text-align: center;
     font-family: arial;
 } 
@@ -10,14 +10,14 @@ body {
 }
 
 #news{
-    color:yellow;
+    color:red;
 }
 
 #container {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border:1px solid black;
+    border:1px solid whitesmoke;
     margin: 0 auto;
 }
 
