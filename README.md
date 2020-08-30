@@ -14,3 +14,4 @@ Un curso completo donde se vió:
 - Traido de las estrellas este curso es
 - Excelente github 
 - Incluye ejemplos en linux, windows y mac
+- Disponible para todas las edades
