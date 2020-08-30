@@ -13,3 +13,4 @@ Un curso completo donde se vió:
 - Producido por el equipo de Oscar Fajardo
 - Traido de las estrellas este curso es
 - Excelente github 
+- Incluye ejemplos en linux, windows y mac
